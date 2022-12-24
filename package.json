@@ -1,0 +1,11 @@
+{
+  "name": "AoC-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:prashantacharya/AoC-2022.git",
+  "author": "Prashant <prashantacharya@lftechnology.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.17"
+  }
+}
